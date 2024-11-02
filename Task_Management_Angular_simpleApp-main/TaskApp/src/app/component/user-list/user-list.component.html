@@ -1,0 +1,48 @@
+
+<div class="container">
+  <div class="card shadow p-3 mb-5 bg-white rounded">
+    <div class="card-body">
+
+      <div class="d-flex justify-content-between mb-3">
+        <div class="p-2">
+          <input type="text" class="form-control" [(ngModel)]="searchtext" placeholder="Search Task">
+        </div>
+        <div class="ml-auto p-2">
+          <button type="button" class="btn btn-primary" [routerLink]="['/user-add']"></button>
+        </div>
+      </div>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Name</th>
+      <th scope="col">Email</th>
+      <th scope="col">Phone</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of userlists | searchuser:searchtext; let i=index">
+
+      <td>{{user.id}}</td>
+      <td>{{user.name}}</td>
+      <td>{{user.email}}</td>
+      <td>{{user.phone}}</td>
+      <td>
+        <button type="button" class="btn btn-warning" (click)="onEdit(user.id)"><i class="bi bi-pencil-square"></i></button>
+        <button type="button" class="btn btn-danger" (click)="onDelete(user.id)"><i class="bi bi-trash"></i></button>
+      </td>
+    </tr>
+
+    <ng-template #template>
+      <div class="modal-body text-center">
+        <p>Do you want to confirm?</p>
+        <button type="button" class="btn btn-default" (click)="confirm()" >Yes</button>
+        <button type="button" class="btn btn-primary" (click)="decline()" >No</button>
+      </div>
+    </ng-template>
+
+
+  </tbody>
+</table>
+

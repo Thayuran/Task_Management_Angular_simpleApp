@@ -1,0 +1,1036 @@
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.AssemblyReference.cache
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.props
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.props
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.props
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.styles.css
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMana.75ABC965.Up2Date
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+C:\Users\Pc HardWare\source\repos\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Humanizer.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Build.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Common.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.CodeDom.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Formats.Asn1.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Memory.Data.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.AssemblyReference.cache
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cs
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cache
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.development.json
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssets.props
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.props
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.props
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.props
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.pack.json
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.styles.css
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMana.75ABC965.Up2Date
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+X:\Thayuran\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Humanizer.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Build.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Common.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.CodeDom.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Formats.Asn1.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Memory.Data.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.AssemblyReference.cache
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cs
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cache
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.development.json
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssets.props
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.props
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.props
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.props
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.pack.json
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.styles.css
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMana.75ABC965.Up2Date
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+G:\JAVASCRIPT\Full-Stack\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Humanizer.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Build.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Common.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Configuration.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Frameworks.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.LibraryModel.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Packaging.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.ProjectModel.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Protocol.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\NuGet.Versioning.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.CodeDom.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Drawing.Common.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Formats.Asn1.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Memory.Data.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Permissions.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\af\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ar\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\az\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\bg\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\da\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\el\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fa\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\he\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\hr\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\hu\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\hy\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\id\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\is\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ku\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\lv\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\mt\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\nb\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\nl\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pt\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ro\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\sk\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\sl\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\sr\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\sv\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\uk\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\vi\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.AssemblyReference.cache
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cs
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cache
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.development.json
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagement.Microsoft.AspNetCore.StaticWebAssets.props
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagement.props
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagement.props
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagement.props
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.pack.json
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.styles.css
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMana.75ABC965.Up2Date
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll

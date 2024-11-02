@@ -1,0 +1,10 @@
+.custom-checkbox {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  outline: none;
+  margin:10px
+}
+

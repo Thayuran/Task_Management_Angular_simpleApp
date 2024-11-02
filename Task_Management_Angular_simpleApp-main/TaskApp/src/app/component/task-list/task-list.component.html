@@ -1,0 +1,53 @@
+
+<div class="container">
+  <div class="card shadow p-3 mb-5 bg-white rounded">
+    <div class="card-body">
+
+      <div class="d-flex justify-content-between mb-3">
+        <div class="p-2">
+          <input type="text" class="form-control" [(ngModel)]="searchtext" placeholder="Search Task">
+        </div>
+        <div class="ml-auto p-2">
+          <button type="button" class="btn btn-primary" [routerLink]="['/task-add']">New Task</button>
+        </div>
+      </div>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Title</th>
+      <th scope="col">Description</th>
+      <th scope="col">Due Date</th>
+      <th scope="col">Priority</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let task of tasklists | searchTask:searchtext; let i=index">
+
+      <td>{{task.id}}</td>
+      <td>{{task.title}}</td>
+      <td>{{task.description}}</td>
+      <td>{{task.dueDate| date: 'dd-MMM-yyyy'}}</td>
+      <td>{{task.priority}}</td>
+      <td>
+        <button type="button" class="btn btn-warning" (click)="onEdit(task.id)"><i class="bi bi-pencil-square"></i></button>
+        <button type="button" class="btn btn-danger" (click)="openModal(template)"><i class="bi bi-trash"></i></button>
+
+        <!-- (click)="onDelete(task.id) -->
+      </td>
+
+      <ng-template #template>
+        <div class="modal-body text-center">
+          <p>Do you want to confirm?</p>
+          <button type="button" class="btn btn-default" (click)="confirm(task.id)" >Yes</button>
+          <button type="button" class="btn btn-primary" (click)="decline()" >No</button>
+        </div>
+      </ng-template>
+    </tr>
+
+
+    
+  </tbody>
+</table>
+
