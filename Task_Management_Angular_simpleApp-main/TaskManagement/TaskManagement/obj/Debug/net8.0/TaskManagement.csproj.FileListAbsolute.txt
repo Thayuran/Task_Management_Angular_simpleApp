@@ -1034,3 +1034,6 @@ X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management
 X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
 X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
 X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\BCrypt.Net.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+X:\Thayuran\01.Full-Stack\Task_Management_Angular_simpleApp-main\Task_Management_Angular_simpleApp-main\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.sourcelink.json

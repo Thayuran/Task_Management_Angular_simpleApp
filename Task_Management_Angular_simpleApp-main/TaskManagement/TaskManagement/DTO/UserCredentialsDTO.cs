@@ -1,4 +1,5 @@
-﻿using static TaskManagement.Model.UserCredentials;
+﻿using TaskManagement.Model;
+using static TaskManagement.Model.UserCredentials;
 
 namespace TaskManagement.DTO
 {
@@ -6,6 +7,7 @@ namespace TaskManagement.DTO
     {
         public string FullName { get; set; }
         public string Email { get; set; }
+        public string Password { get; set; }
         public Roles Role { get; set; }
     }
 }

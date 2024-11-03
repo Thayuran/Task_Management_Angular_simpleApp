@@ -11,22 +11,22 @@
         <div class="shape"></div>
         <div class="shape"></div>
     </div>
-    <form>
+    <form [formGroup]="SignupForm" (ngSubmit)="onSubmit()">
         <h3>Signup Here</h3>
 
         <label for="username">Full Name</label>
-        <input type="text" placeholder="Email or Phone" id="username">
+        <input type="text" placeholder="Full Name" id="username"  class="form-control" formControlName="username">
 
 
         <label for="email">Email</label>
-        <input type="email" placeholder="john@gmail.com" id="email">
+        <input type="email" placeholder="john@gmail.com" id="email" class="form-control"  formControlName="email">
 
         <label for="password">Password</label>
-        <input type="password" placeholder="Password" id="password">
+        <input type="password" placeholder="Password" id="password"  class="form-control"  formControlName="password">
 
 
         <label for="confirmedpassword">Confirmed Password</label>
-        <input type="password" placeholder="Confirm Password" id="confirmedpassword">
+        <input type="password" placeholder="Confirm Password" id="confirmedpassword"  formControlName="confirmedpassword">
 
         <div class="mb-3">
             <label for="role" class="form-label">Role</label>

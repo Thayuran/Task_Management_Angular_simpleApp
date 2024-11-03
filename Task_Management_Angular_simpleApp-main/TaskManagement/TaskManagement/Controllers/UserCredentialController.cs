@@ -2,7 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TaskManagement.DataBase;
+using TaskManagement.DTO;
 using TaskManagement.Model;
+using TaskManagement.Services;
 
 namespace TaskManagement.Controllers
 {
@@ -12,10 +14,12 @@ namespace TaskManagement.Controllers
     {
 
         private readonly TaskContext _context;
+        private readonly IUserService _userservice;
 
-        public UserCredentialController(TaskContext context)
+        public UserCredentialController(TaskContext context,IUserService userService)
         {
             _context = context;
+            _userservice = userService;
         }
 
         [HttpPost("register")]
@@ -26,15 +30,21 @@ namespace TaskManagement.Controllers
             return Ok(data);
         }
 
-        [HttpPost("login")]
-        public async Task<IActionResult>LoginUser(string email,string password)
+        
+        [HttpGet("login")]      
+        public async Task<IActionResult> LoginUser(string email, string password)
         {
             var currentuser = _context.Credentials.FirstOrDefaultAsync(u => u.Email == email);
-            if (currentuser == null)
+            try
             {
-                throw new Exception("user not found");
+                var data=await _userservice.LoginUser(email,password);
+                return Ok(data);
             }
-            var isvalidpw=BCrypt.Net.BCrypt.Verify(password);
+            catch (Exception ex) 
+            {
+                return BadRequest(ex.Message);
+            }
+            
         }
     }
 }
