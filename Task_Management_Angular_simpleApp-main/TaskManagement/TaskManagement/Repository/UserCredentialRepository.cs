@@ -17,7 +17,7 @@ namespace TaskManagement.Repository
         public async Task<UserCredentials> AddUser(UserCredentials userCredentials)
         {
             var data = await _taskContext.Credentials.AddAsync(userCredentials);
-            _taskContext.SaveChangesAsync();
+           await _taskContext.SaveChangesAsync();
             return data.Entity;
         }
 

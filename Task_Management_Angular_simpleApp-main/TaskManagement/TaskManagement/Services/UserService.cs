@@ -31,7 +31,8 @@ namespace TaskManagement.Services
                 Role = userCredentialsDTO.Role,
                 PasswordHash = BCrypt.Net.BCrypt.HashPassword(userCredentialsDTO.Password)
             };
-            var token = CreateToken(user);
+            var newuser = await _credentialRepository.AddUser(user);
+            var token = CreateToken(newuser);
             return token;
         }
 
@@ -67,7 +68,7 @@ namespace TaskManagement.Services
             var user = await _credentialRepository.GetUserByEmail(email);
             if (user == null)
             {
-                throw new Exception("Email not valid");
+                throw new Exception("user not found");
             }
             if (!BCrypt.Net.BCrypt.Verify(password, user.PasswordHash))
             {

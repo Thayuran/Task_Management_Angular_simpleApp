@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TaskManagement.DataBase;
@@ -24,17 +25,24 @@ namespace TaskManagement.Controllers
 
         [HttpPost("register")]
 
-        public async Task<IActionResult>RegisterUser(UserCredentials user)
+        public async Task<IActionResult>RegisterUser(UserCredentialsDTO user)
         {
-            var data = await _context.Credentials.AddAsync(user);
-            return Ok(data);
+            try
+            {
+                var data = await _userservice.AddRegister(user);
+                return Ok(data);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         
         [HttpGet("login")]      
         public async Task<IActionResult> LoginUser(string email, string password)
         {
-            var currentuser = _context.Credentials.FirstOrDefaultAsync(u => u.Email == email);
+           /* var currentuser = _context.Credentials.FirstOrDefaultAsync(u => u.Email == email);*/
             try
             {
                 var data=await _userservice.LoginUser(email,password);
@@ -45,6 +53,21 @@ namespace TaskManagement.Controllers
                 return BadRequest(ex.Message);
             }
             
+        }
+
+        [Authorize]
+        [HttpGet]
+        public async Task<IActionResult> checkAPI()
+        {
+            try
+            {
+                var role = User.FindFirst("Role").Value;
+                return Ok(role);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

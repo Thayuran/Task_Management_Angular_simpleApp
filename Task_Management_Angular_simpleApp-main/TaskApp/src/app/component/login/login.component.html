@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- 
+
     <title></title>
- 
+
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
@@ -19,9 +19,14 @@
 
         <label for="username">Username</label>
         <input type="text" placeholder="User"  class="form-control"  id="username" formControlName="username">
-
+        <div *ngIf="formcontrols.username.invalid && formcontrols.username.touched">
+          <small class="form-text text-danger" >Enter your username!</small>
+        </div>
         <label for="password">Password</label>
         <input type="password"  class="form-control" placeholder="Password" id="password"  formControlName="password">
+        <div *ngIf="formcontrols.password.invalid && formcontrols.password.touched">
+          <small class="form-text text-danger">Enter your password!</small>
+        </div>
 
         <button>Log In</button>
         <a class="nav-link" [routerLink]="['/register']">Create an account</a>
@@ -29,7 +34,7 @@
     </div>
 
 <div class="col-md-6">
-    
+
 </div>
 
 </body>

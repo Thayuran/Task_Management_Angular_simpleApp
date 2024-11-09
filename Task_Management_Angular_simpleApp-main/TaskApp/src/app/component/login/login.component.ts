@@ -9,11 +9,19 @@ import { FormGroup } from '@angular/forms';
 export class LoginComponent {
 
 
-  // loginForm:FormGroup
+   loginForm:FormGroup
 
+
+
+
+
+   get formcontrols()
+  {
+    return this.loginForm.controls;
+  }
 onSubmit()
 {
-  
+
 }
 
 }

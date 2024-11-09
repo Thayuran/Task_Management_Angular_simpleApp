@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- 
+
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
@@ -16,18 +16,25 @@
 
         <label for="username">Full Name</label>
         <input type="text" placeholder="Full Name" id="username"  class="form-control" formControlName="username">
-
+        <div *ngIf="signupcontrols.username.invalid && formcontrols.username.touched">
+          <small class="form-text text-danger" >Enter your fullname!</small>
+        </div>
 
         <label for="email">Email</label>
         <input type="email" placeholder="john@gmail.com" id="email" class="form-control"  formControlName="email">
-
+        <div *ngIf="signupcontrols.email.invalid && formcontrols.email.touched">
+          <small class="form-text text-danger" >Enter your email!</small>
+        </div>
         <label for="password">Password</label>
         <input type="password" placeholder="Password" id="password"  class="form-control"  formControlName="password">
-
-
+        <div *ngIf="signupcontrols.password.errors?.minlength">
+          <small class="form-text text-danger">password is should minimum 8 characters!</small>
+        </div>
         <label for="confirmedpassword">Confirmed Password</label>
         <input type="password" placeholder="Confirm Password" id="confirmedpassword"  formControlName="confirmedpassword">
-
+        <div *ngIf="signupcontrols.confirmedpassword.invalid && formcontrols.confirmedpassword.touched">
+          <small class="form-text text-danger" >Confirmed password is required!</small>
+        </div>
         <div class="mb-3">
             <label for="role" class="form-label">Role</label>
             <select class="form-control" id="role" formControlName="role">

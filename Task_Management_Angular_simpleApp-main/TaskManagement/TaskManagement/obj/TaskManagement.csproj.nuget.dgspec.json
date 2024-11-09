@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {}
+    "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {}
   },
   "projects": {
-    "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
+    "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+        "projectUniqueName": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
         "projectName": "TaskManagement",
-        "projectPath": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
-        "packagesPath": "C:\\Users\\UT01127\\.nuget\\packages\\",
-        "outputPath": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\obj\\",
+        "projectPath": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+        "packagesPath": "C:\\Users\\Pc HardWare\\.nuget\\packages\\",
+        "outputPath": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\UT01127\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pc HardWare\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

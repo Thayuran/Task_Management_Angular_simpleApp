@@ -1,46 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\",
+  "WorkspaceRootPath": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|e:\\unicom tic\\fullstack\\task_management_angular_simpleapp\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|e:\\unicom tic\\fullstack\\task_management_angular_simpleapp\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|e:\\unicom tic\\fullstack\\task_management_angular_simpleapp\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\migrations\\20241105020541_authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\migrations\\20241105020541_authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\dto\\usercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\dto\\usercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\controllers\\usercredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|e:\\unicom tic\\fullstack\\task_management_angular_simpleapp\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\controllers\\usercredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\usercredentialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|e:\\unicom tic\\fullstack\\task_management_angular_simpleapp\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|e:\\unicom tic\\fullstack\\task_management_angular_simpleapp\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|e:\\unicom tic\\fullstack\\task_management_angular_simpleapp\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\repository\\iusercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\repository\\iusercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\migrations\\20241102054416_updatenullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\migrations\\20241102054416_updatenullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|x:\\thayuran\\01.full-stack\\task_management_angular_simpleapp-main\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\migrations\\20241102053452_addmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\migrations\\20241102053452_addmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|e:\\unicom tic\\fullstack\\task_management_angular_simpleapp\\task_management_angular_simpleapp-main\\taskmanagement\\taskmanagement\\repository\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98877BCD-4A77-46C4-B0E7-AFFB7B0A9390}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\repository\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,132 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
+              "ToolTip": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeToolTip": "TaskManagement\\Program.cs",
+              "ViewState": "AQIAAEcAAACAzMzMzMwmwCsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:03:34.604Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\appsettings.json",
+              "DocumentMoniker": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\appsettings.json",
               "RelativeDocumentMoniker": "TaskManagement\\appsettings.json",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\appsettings.json",
+              "ToolTip": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\appsettings.json",
               "RelativeToolTip": "TaskManagement\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAkAAACMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-03T09:54:36.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T02:10:56.331Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Services\\IUserService.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Services\\IUserService.cs",
-              "RelativeToolTip": "TaskManagement\\Services\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
+              "Title": "20241105020541_authentication.cs",
+              "DocumentMoniker": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Migrations\\20241105020541_authentication.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Migrations\\20241105020541_authentication.cs",
+              "ToolTip": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Migrations\\20241105020541_authentication.cs",
+              "RelativeToolTip": "TaskManagement\\Migrations\\20241105020541_authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T10:06:04.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Services\\UserService.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Services\\UserService.cs",
-              "RelativeToolTip": "TaskManagement\\Services\\UserService.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T06:26:20.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserCredentialController.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Controllers\\UserCredentialController.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\UserCredentialController.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Controllers\\UserCredentialController.cs",
-              "RelativeToolTip": "TaskManagement\\Controllers\\UserCredentialController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T09:42:12.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Controllers\\TasksController.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\TasksController.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "TaskManagement\\Controllers\\TasksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:02:32.299Z"
+              "WhenOpened": "2024-11-05T02:05:42.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserCredentialsDTO.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\DTO\\UserCredentialsDTO.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\DTO\\UserCredentialsDTO.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\DTO\\UserCredentialsDTO.cs",
-              "RelativeToolTip": "TaskManagement\\DTO\\UserCredentialsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAUAAAA",
+              "Title": "UserCredentialController.cs",
+              "DocumentMoniker": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Controllers\\UserCredentialController.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\UserCredentialController.cs",
+              "ToolTip": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Controllers\\UserCredentialController.cs",
+              "RelativeToolTip": "TaskManagement\\Controllers\\UserCredentialController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T09:45:17.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T02:04:33.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Services\\UserService.cs",
+              "ToolTip": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Services\\UserService.cs",
+              "RelativeToolTip": "TaskManagement\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:04:29.08Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Model\\User.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Model\\User.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Model\\User.cs",
-              "RelativeToolTip": "TaskManagement\\Model\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Services\\IUserService.cs",
+              "ToolTip": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Services\\IUserService.cs",
+              "RelativeToolTip": "TaskManagement\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T09:32:44.341Z"
+              "WhenOpened": "2024-11-05T02:04:27.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241102054416_updatenullable.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Migrations\\20241102054416_updatenullable.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Migrations\\20241102054416_updatenullable.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Migrations\\20241102054416_updatenullable.cs",
-              "RelativeToolTip": "TaskManagement\\Migrations\\20241102054416_updatenullable.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "IUserCredentialRepository.cs",
+              "DocumentMoniker": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Repository\\IUserCredentialRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Repository\\IUserCredentialRepository.cs",
+              "ToolTip": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Repository\\IUserCredentialRepository.cs",
+              "RelativeToolTip": "TaskManagement\\Repository\\IUserCredentialRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T05:44:16.16Z"
+              "WhenOpened": "2024-11-05T02:04:24.364Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Model\\TaskItem.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Model\\TaskItem.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Model\\TaskItem.cs",
-              "RelativeToolTip": "TaskManagement\\Model\\TaskItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T05:43:37.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20241102053452_addmigrate.cs",
-              "DocumentMoniker": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Migrations\\20241102053452_addmigrate.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Migrations\\20241102053452_addmigrate.cs",
-              "ToolTip": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp-main\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Migrations\\20241102053452_addmigrate.cs",
-              "RelativeToolTip": "TaskManagement\\Migrations\\20241102053452_addmigrate.cs",
+              "Title": "UserCredentialRepository.cs",
+              "DocumentMoniker": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Repository\\UserCredentialRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Repository\\UserCredentialRepository.cs",
+              "ToolTip": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\Repository\\UserCredentialRepository.cs",
+              "RelativeToolTip": "TaskManagement\\Repository\\UserCredentialRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T05:34:52.461Z"
+              "WhenOpened": "2024-11-05T02:04:21.414Z"
             }
           ]
         }

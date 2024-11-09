@@ -1,6 +1,10 @@
 
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 using TaskManagement.DataBase;
+using TaskManagement.Repository;
+using TaskManagement.Services;
 
 namespace TaskManagement
 {
@@ -35,6 +39,9 @@ namespace TaskManagement
 
             builder.Services.AddDbContext<TaskContext>(op=>op.UseSqlServer(builder.Configuration.GetConnectionString("connect")));
 
+
+            builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IUserCredentialRepository, UserCredentialRepository>();
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowSpecificOrigins",
@@ -47,7 +54,23 @@ namespace TaskManagement
                                   });
             });
 
-          
+            var jwtSettings = builder.Configuration.GetSection("Jwt");
+            var key = Encoding.ASCII.GetBytes(jwtSettings["Key"]);
+
+            builder.Services.AddAuthentication()
+                .AddJwtBearer(options =>
+                {
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = jwtSettings["Issuer"],
+                        ValidAudience = jwtSettings["Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(key)
+                    };
+                });
+
 
             var app = builder.Build();
 
