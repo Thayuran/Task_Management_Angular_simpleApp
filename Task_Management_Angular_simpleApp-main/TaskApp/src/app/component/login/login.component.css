@@ -22,27 +22,11 @@ body{
     position: absolute;
     border-radius: 50%;
 }
-.shape:first-child{
-    background: linear-gradient(
-        #1845ad,
-        #23a2f6
-    );
-    left: -80px;
-    top: -80px;
-}
-.shape:last-child{
-    background: linear-gradient(
-        to right,
-        #ff512f,
-        #f09819
-    );
-    right: -30px;
-    bottom: -80px;
-}
+
 form{
     height: 520px;
     width: 400px;
-    background-color: rgba(20, 170, 230, 0.781);
+    background-color: rgba(244, 246, 247, 0.781);
     position: absolute;
     transform: translate(-50%,-50%);
     top: 50%;
@@ -97,4 +81,8 @@ button{
     font-weight: 600;
     border-radius: 5px;
     cursor: pointer;
+}
+img
+{
+    z-index: 2;
 }

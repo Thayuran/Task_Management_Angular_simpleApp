@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {}
+    "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {}
   },
   "projects": {
-    "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
+    "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+        "projectUniqueName": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
         "projectName": "TaskManagement",
-        "projectPath": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
-        "packagesPath": "C:\\Users\\Pc HardWare\\.nuget\\packages\\",
-        "outputPath": "E:\\Unicom TIC\\fullstack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\obj\\",
+        "projectPath": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+        "packagesPath": "C:\\Users\\ut01127\\.nuget\\packages\\",
+        "outputPath": "X:\\Thayuran\\01.Full-Stack\\Task_Management_Angular_simpleApp\\Task_Management_Angular_simpleApp-main\\TaskManagement\\TaskManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pc HardWare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ut01127\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

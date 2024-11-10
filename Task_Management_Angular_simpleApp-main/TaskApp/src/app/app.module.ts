@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HttpClientModule } from '@angular/common/http';
+import { HTTP_INTERCEPTORS, HttpClientModule } from '@angular/common/http';
 import { TaskAddComponent } from './component/task-add/task-add.component';
 import { TaskListComponent } from './component/task-list/task-list.component';
 import { TaskEditComponent } from './component/task-edit/task-edit.component';
@@ -21,6 +21,7 @@ import { BsDatepickerModule } from 'ngx-bootstrap/datepicker';
 import { BsModalService } from 'ngx-bootstrap/modal';
 import { LoginComponent } from './component/login/login.component';
 import { SignupComponent } from './component/signup/signup.component';
+import { MyInterceptorService } from './interceptors/my-interceptor.service';
 
 @NgModule({
   declarations: [
@@ -50,7 +51,9 @@ import { SignupComponent } from './component/signup/signup.component';
     DatePipe,
     BsDatepickerModule
   ],
-  providers: [BsModalService],
+  providers: [BsModalService,
+    { provide: HTTP_INTERCEPTORS, useClass: MyInterceptorService, multi: true }
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

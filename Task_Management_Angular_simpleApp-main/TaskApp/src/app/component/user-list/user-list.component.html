@@ -8,7 +8,7 @@
           <input type="text" class="form-control" [(ngModel)]="searchtext" placeholder="Search Task">
         </div>
         <div class="ml-auto p-2">
-          <button type="button" class="btn btn-primary" [routerLink]="['/user-add']"></button>
+          <button type="button" class="btn btn-primary" (click)="openModal(openadd)">New User</button>
         </div>
       </div>
 <table class="table table-bordered">
@@ -45,4 +45,48 @@
 
   </tbody>
 </table>
+
+<ng-template #openadd>
+  <div class="modal-header">
+    <h3 class="modal-title pull-left">{{isEditMode==true? 'Update User' :'Add New User'}}</h3>
+    <button
+      type="button"
+      class="btn-close close pull-right"
+      aria-label="Close"
+      (click)="modalRef?.hide()"
+    >
+      <span aria-hidden="true" class="visually-hidden">&times;</span>
+    </button>
+  </div>
+
+  <div class="modal-body">
+    <form [formGroup]="userform" (ngSubmit)="onSubmit()">
+
+      <div class="mb-3">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="name" formControlName="name">
+      </div>
+      <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="text" class="form-control" id="email" formControlName="email">
+      </div>
+
+      <div class="mb-3">
+        <label for="phone" class="form-label">Phone</label>
+        <input type="text" class="form-control" id="phone" formControlName="phone">
+      </div>
+
+      <div class="mb-3 mx-auto">
+        <button type="submit" [disabled]="userform.invalid"
+        class="btn btn-primary me-2">{{isEditMode==true ? 'Update':'Save'}}</button>
+
+        <button type="button" (click)="cancel()"
+        class="btn btn-secondary">Cancel</button>
+
+      </div>
+    </form>
+
+  </div>
+</ng-template>
+<router-outlet></router-outlet>
 

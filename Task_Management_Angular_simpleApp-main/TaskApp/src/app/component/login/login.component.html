@@ -1,42 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-    <title></title>
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
-</head>
-<body>
-    <div class="background">
-        <div class="shape"></div>
-        <div class="shape"></div>
-    </div>
-    <div class="col-md-6">
-    <form [formGroup]="loginForm"  (ngSubmit)="onSubmit()">
+<div class="container p-3 mt-5">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+  <!-- <div class="background">
+    </div> -->
+  <div class="row">
+    <div class="cols-sm-5 col-md-6">
+      <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
         <h3>Login Here</h3>
 
+      <div class="col">
         <label for="username">Username</label>
-        <input type="text" placeholder="User"  class="form-control"  id="username" formControlName="username">
-        <div *ngIf="formcontrols.username.invalid && formcontrols.username.touched">
-          <small class="form-text text-danger" >Enter your username!</small>
+        <input type="text" placeholder="User" class="form-control" id="username" formControlName="username">
+        <div *ngIf="logincontrols['username'].invalid && logincontrols['username'].touched">
+          <small class="form-text text-danger">Enter your username!</small>
         </div>
         <label for="password">Password</label>
-        <input type="password"  class="form-control" placeholder="Password" id="password"  formControlName="password">
-        <div *ngIf="formcontrols.password.invalid && formcontrols.password.touched">
-          <small class="form-text text-danger">Enter your password!</small>
+        <input type="password" class="form-control" placeholder="Password" id="password" formControlName="password">
+        <div *ngIf="logincontrols['password'].invalid && logincontrols['password'].touched">
+          <small class="form-text text-danger">wrong password!</small>
         </div>
 
         <button>Log In</button>
         <a class="nav-link" [routerLink]="['/register']">Create an account</a>
-    </form>
+
+      </div>
+      </form>
+
+
+    </div>
+    <div class="cols-sm-5 offset-sm-2 col-md-6 offset-md-0">
+      <!-- <img src="../../../../signin-image.jpg" alt="login"> -->
     </div>
 
-<div class="col-md-6">
+  </div>
 
 </div>
-
-</body>
-</html>
-
+<router-outlet></router-outlet>

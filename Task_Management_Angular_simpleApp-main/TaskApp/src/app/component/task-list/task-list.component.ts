@@ -5,6 +5,8 @@ import { ToastrService } from 'ngx-toastr';
 import { Router } from '@angular/router';
 import { timeout } from 'rxjs';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
+import { FormArray, FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { User } from '../../user.model';
 
 @Component({
   selector: 'app-task-list',
@@ -17,15 +19,58 @@ export class TaskListComponent implements OnInit {
   tasklists:Task[]=[];
   modalRef?: BsModalRef;
 
+taskForm:FormGroup;
+users:User[]=[];
+
   constructor(
     private taskservice:TaskServiceService,
     private toastr:ToastrService,
     private route:Router,
-    private modalService:BsModalService
-  )
+    private modalService:BsModalService,private fb:FormBuilder,
+  private toast:ToastrService)
   {
+    let currentDate=new Date().toISOString().slice(0,10);
+    this.taskForm=this.fb.group({
+      title:['',[Validators.required]],
+      description:[''],
+      dueDate:[currentDate],
+      priority:['',[Validators.required]],
+      checklists:this.fb.array([]),
+      assigneeId:['']
+
+    })
 
   }
+
+
+  onSubmit()
+    {
+    let task=this.taskForm.value;
+    this.taskservice.createTask(task).subscribe(data=>
+      {
+        this.toast.success("task is create success");
+      this.route.navigate(["/tasks"]);
+    });
+}
+
+get MyChecklists():FormArray
+{
+  return this.taskForm.get('checklists') as FormArray
+}
+
+addChecklist()
+{
+  this.MyChecklists.push(this.fb.group({
+    name:[''],
+    isDone:[false]
+  }))
+}
+
+removeChecklist(index:number)
+{
+  this.MyChecklists.removeAt(index);
+}
+
 
   ngOnInit(): void {
       this.loadTasks();
@@ -39,6 +84,13 @@ export class TaskListComponent implements OnInit {
     }
     )
   }
+
+  cancel()
+  {
+        this.taskForm.reset();
+        this.route.navigate(["/tasks"]);
+  }
+
 
   onEdit(taskId:number)
   {
@@ -85,7 +137,7 @@ confirm(taskId:number)
   }
 
 
-  
+
   decline()
   {
     this.modalRef?.hide();
